@@ -15,3 +15,8 @@ Install uv on mac
 1. `uv init .` to define a uv project
 2. `uv add <PACKAGE>`
 3. `uv remove <PACKAGE>`
+
+
+# Setup tables
+`python connect.py` to create sqlite db
+`python create_tables.py` to create tables
